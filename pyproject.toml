@@ -9,4 +9,4 @@ dependencies = [
 ]
 
 [tool.uv.workspace]
-members = ["ch01-polars-dataframe"]
+members = ["ch01-polars-dataframe", "ch02-reading-writing-files"]

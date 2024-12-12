@@ -11,3 +11,4 @@ wheels/
 uv.lock
 .ropeproject
 .python-version
+.DS_Store
