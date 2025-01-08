@@ -1,5 +1,4 @@
 import polars as pl
-from polars.io.delta import read_delta
 
 def read_delta_lake():
     input_path = '../data/venture_funding_deals_delta'
